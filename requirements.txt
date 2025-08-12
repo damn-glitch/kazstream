@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+qrcode
+Pillow
+requests
+dataclasses
