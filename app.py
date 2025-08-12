@@ -1477,7 +1477,7 @@ Block #1234
         st.markdown("---")
         st.markdown("""
         <div style='text-align: center; color: #666;'>
-            KazSmartChain Platform | Built with Hyperledger Technology | © 2024
+            KazSmartChain Platform | Author: Alisher Beisembekov | Built with Hyperledger Technology | © 2025
         </div>
         """, unsafe_allow_html=True)
 
@@ -1485,4 +1485,5 @@ Block #1234
 # Run the application
 if __name__ == "__main__":
     app = KazSmartChain()
+
     app.run()
